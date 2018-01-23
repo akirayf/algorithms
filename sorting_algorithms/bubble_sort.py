@@ -1,6 +1,6 @@
 """
 
-Implement bubble sort algorithm to sory numbers in ascending/descending order
+Implement bubble sort algorithm to sort numbers in ascending/descending order
 
 """
 

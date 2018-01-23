@@ -1,6 +1,6 @@
 """
 
-Implement quick sort algorithm to sory numbers in ascending/descending order
+Implement quick sort algorithm to sort numbers in ascending/descending order
 
 """
 
